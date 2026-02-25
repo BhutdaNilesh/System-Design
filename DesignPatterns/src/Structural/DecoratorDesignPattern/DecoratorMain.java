@@ -1,4 +1,4 @@
-package Structural.CommandDesignPattern;
+package Structural.DecoratorDesignPattern;
 
 
 /*
