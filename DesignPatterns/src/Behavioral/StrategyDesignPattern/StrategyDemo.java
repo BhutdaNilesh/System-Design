@@ -6,7 +6,7 @@ package Behavioral.StrategyDesignPattern;
 
     Let's take the example of Doing Payment as we have multiple payment methods like UPI, credit card and net banking.
     instead of writing the if else statements, we will choose the strategy pattern which will decide the which payment to choose at runtime
-    It uses composition -> Payemnt context has the payment strategy
+    It uses composition -> Payment context has the payment strategy
 */
 public class StrategyDemo {
 
